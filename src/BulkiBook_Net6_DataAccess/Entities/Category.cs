@@ -1,7 +1,7 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace BulkiBook_Net6_Web.Models;
+namespace BulkiBook_Net6_DataAccess.Entities;
 
 [Table("Categories")]
 public class Category
